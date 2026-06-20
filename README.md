@@ -1,4 +1,4 @@
-# Hi, I'm bUDA 👨‍💻
+# I'm bUDA
 
 **Software developer** based in South Africa (Western Cape). I build meaningful digital experiences with a focus on backend systems and interactive web applications.
 
