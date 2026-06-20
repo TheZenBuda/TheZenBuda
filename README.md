@@ -6,7 +6,8 @@ Currently balancing professional backend development with passion projects that 
 
 ## 🚀 Current Focus
 
-### Tiny Titans (TTECO)
+### Tiny Titans AKA tinytitans.eco (TTECO) 
+Social media handles are @tinytitansECO (X, Instagram, etc)
 **Observe. Interact. Restore.**
 
 An engaging ecology web application centered on the "little things" — insects, decomposers, and micro-habitats — that sustain our world.
@@ -22,7 +23,7 @@ An engaging ecology web application centered on the "little things" — insects,
 
 [View on GitHub](https://github.com/TheZenBuda/TTECO)
 
-### WedMe
+### WedMe.io
 **Cape Winelands Wedding Planning**
 
 A polished landing experience for WedMe, a platform helping couples plan elegant weddings — starting in South Africa's scenic Cape Winelands and scaling globally.
