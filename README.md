@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm bUDA 👨‍💻
 
-<!--
-**TheZenBuda/TheZenBuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software developer** based in South Africa (Western Cape). I build meaningful digital experiences with a focus on backend systems and interactive web applications.
 
-Here are some ideas to get you started:
+Currently balancing professional backend development with passion projects that blend technology, ecology, and community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+
+### Tiny Titans (TTECO)
+**Observe. Interact. Restore.**
+
+An engaging ecology web application centered on the "little things" — insects, decomposers, and micro-habitats — that sustain our world.
+
+- Live animated habitat canvas featuring Western Cape fynbos ecosystems
+- Interactive specimen observation, collection, and restoration mechanics
+- Dynamic ecosystem health simulation that responds to user actions
+- Real-species Codex with educational content
+- Personal Greenhouse sanctuary for cosmetics and upgrades
+- Persistent progress, leaderboard, and Supabase-ready architecture
+
+**Tech:** React 19 • TypeScript • Vite • Tailwind CSS
+
+[View on GitHub](https://github.com/TheZenBuda/TTECO)
+
+### WedMe
+**Cape Winelands Wedding Planning**
+
+A polished landing experience for WedMe, a platform helping couples plan elegant weddings — starting in South Africa's scenic Cape Winelands and scaling globally.
+
+- Beautiful, responsive design with romantic pastel aesthetic
+- Fully interactive budget planner with real-time ZAR calculations
+- Curated venues and vendor discovery (vineyards, estates, services)
+- Planning tools and inspiration sections
+
+**Tech:** Modern HTML5/CSS/JS with Tailwind (CDN) and Font Awesome
+
+[View on GitHub](https://github.com/TheZenBuda/wedme.io)
+
+## 📊 Skills & Technologies
+
+**Frontend & Web:** React, TypeScript, Vite, Tailwind CSS, HTML/CSS/JS, responsive design
+
+**Backend & Data:** Supabase, REST/GraphQL concepts, local persistence strategies
+
+**Tools & Practices:** Git, ESLint/Prettier, component architecture, accessible UI, performance optimization
+
+**Domains:** Ecology & conservation tech, creative web experiences, user-centric interfaces
+
+## 🌍 Location & Links
+
+- **Location:** South Africa
+- **Blog:** [zenbuda.dev](https://zenbuda.dev)
+- **Twitter/X:** [@zenbuda](https://twitter.com/zenbuda)
+- **GitHub:** [TheZenBuda](https://github.com/TheZenBuda)
+
+---
+
+*Passionate about using code to observe, protect, and celebrate the small wonders around us.*
