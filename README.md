@@ -4,7 +4,7 @@
 
 Currently balancing professional backend development with passion projects that blend technology, ecology, and community.
 
-## 🚀 Current Focus
+## 🚀 Current Main Focus Build
 
 ### Tiny Titans AKA tinytitans.eco (TTECO) 
 Social media handles are @tinytitansECO (X, Instagram, etc)
@@ -53,7 +53,3 @@ A polished landing experience for WedMe, a platform helping couples plan elegant
 - **Blog:** [zenbuda.dev](https://zenbuda.dev)
 - **Twitter/X:** [@zenbuda](https://twitter.com/zenbuda)
 - **GitHub:** [TheZenBuda](https://github.com/TheZenBuda)
-
----
-
-*Passionate about using code to observe, protect, and celebrate the small wonders around us.*
