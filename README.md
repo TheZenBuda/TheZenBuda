@@ -23,33 +23,51 @@ An interactive ecology web app about the "little things" (insects, decomposers, 
 - **Features:** Live habitat canvas, species discovery, ecosystem simulation, leaderboard
 - **Real science** backed by peer-reviewed conservation research
 - **Status:** Open-source, active development
+- **Repo:** [TheZenBuda/TTECO](https://github.com/TheZenBuda/TTECO)
 
 ### **Ember** ⚡  
-A solar-powered local AI lab agent with Ollama integration, idle mining automation, and a web-based control room.
+A local-first AI agent with Ollama integration and a sophisticated control room UI.
 - **Tech:** Python, JavaScript, Ollama, local-first architecture
-- **Features:** Empire AI narrative mode, Smelt mining automation, extensible plugin system
+- **Features:** Empire AI with narrative memory, extensible plugin system, RESTful API
 - **Philosophy:** Brutal honesty, zero cloud dependency, ambitious partnerships
 - **Status:** Private (powerful experimental tech)
-
-### **BookBot** 📚  
-Text analysis tool that processes novels and reports detailed word/character metrics.
-- **Tech:** Python
-- **Learnings:** Boot.dev foundation project showcasing Python fundamentals
+- **Repo:** [TheZenBuda/ember](https://github.com/TheZenBuda/ember)
 
 ### **WedMe.io** 💍  
 Wedding planning platform for the Cape Winelands region.
 - **Tech:** HTML, TypeScript, responsive design
-- **Features:** Landing site, event coordination tools
+- **Features:** Landing site, vendor directory, event coordination tools
 - **Status:** Public demo
+- **Repo:** [TheZenBuda/wedme.io](https://github.com/TheZenBuda/wedme.io)
+
+---
+
+## 🎓 Boot.dev Learning Path
+
+Actively learning and building with **[Boot.dev](https://boot.dev)** — a project-based coding curriculum focused on backend development and foundational computer science.
+
+### Completed Projects
+
+| Project | Tech | Skills | Repo |
+|---------|------|--------|------|
+| **BookBot** | Python | File I/O, data structures, text processing, algorithms | [TheZenBuda/bookbot](https://github.com/TheZenBuda/bookbot) |
+
+### Current Learning Focus
+- Backend development patterns
+- Full-stack architecture
+- Software design principles
+- Computer science fundamentals
+
+**[View my Boot.dev Profile](https://boot.dev/u/TheZenBuda)** for detailed progress and additional coursework.
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages:** Python · JavaScript/TypeScript · HTML/CSS  
-**Frontend:** React 19 · Tailwind CSS · Vite  
-**Backend:** Python · Local APIs · Ollama  
-**Tools & Patterns:** Full-stack development · Automation · Responsive design · Conservation science
+**Frontend:** React 19 · Tailwind CSS · Vite · Responsive design  
+**Backend:** Python · REST APIs · Ollama · Local-first architecture  
+**Tools & Patterns:** Full-stack development · Git workflow · Web accessibility · Conservation science integration
 
 ---
 
@@ -71,6 +89,7 @@ I believe technology should serve the world, not the other way around. Every pro
 - AI/ML integration for ecological applications
 - Sustainable software architecture
 - Full-stack TypeScript systems
+- Backend best practices (via Boot.dev)
 
 ---
 
@@ -81,8 +100,17 @@ I'm interested in:
 - 🤖 Local AI/automation systems
 - 🔗 Open-source collaboration
 - 💡 Purpose-driven products
+- 📚 Boot.dev community & learning
 
 **Reach out if you're building something that matters.**
+
+---
+
+## 📍 Links
+
+- **GitHub:** [@TheZenBuda](https://github.com/TheZenBuda)
+- **Boot.dev:** [Profile](https://boot.dev/u/TheZenBuda)
+- **Tiny Titans:** [X @tinytitanseco](https://x.com/tinytitanseco) · [Instagram @tinytitanseco](https://instagram.com/tinytitanseco)
 
 ---
 
